@@ -507,10 +507,6 @@ h6,
 #features2-u .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
-#header3-6a .mbr-section-title,
-#header3-6a .mbr-section-subtitle {
-  text-align: center;
-}
 #contacts1-p P {
   color: #ffffff;
 }
@@ -596,8 +592,8 @@ h6,
 #menu-d .close-icon::after {
   background-color: #ffffff;
 }
-#header3-6p .mbr-section-title,
-#header3-6p .mbr-section-subtitle {
+#header3-6t .mbr-section-title,
+#header3-6t .mbr-section-subtitle {
   text-align: center;
 }
 #content6-k UL {
@@ -614,10 +610,6 @@ h6,
 #header3-l H3 {
   color: #90a878;
 }
-#header3-6j .mbr-section-title,
-#header3-6j .mbr-section-subtitle {
-  text-align: center;
-}
 #features4-m .card-subtitle {
   color: #bcbcbc;
 }
@@ -627,10 +619,6 @@ h6,
 }
 #features4-m H4 {
   color: #8c8c8c;
-}
-#header3-6d .mbr-section-title,
-#header3-6d .mbr-section-subtitle {
-  text-align: center;
 }
 #features2-4y .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
@@ -738,10 +726,6 @@ h6,
 }
 #features2-48 .mbr-cards-col:nth-child(even) .card-text {
   text-align: left;
-}
-#header3-6k .mbr-section-title,
-#header3-6k .mbr-section-subtitle {
-  text-align: center;
 }
 #contacts1-1c P {
   color: #ffffff;
