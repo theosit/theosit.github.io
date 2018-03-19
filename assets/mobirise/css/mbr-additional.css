@@ -503,6 +503,7 @@ h6,
 #header3-s H3 {
   color: #90a878;
   font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
 }
 #features2-u .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
