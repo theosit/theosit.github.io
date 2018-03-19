@@ -507,6 +507,13 @@ h6,
 #features2-u .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#testimonials1-6w .mbr-section-title {
+  font-size: 30px;
+  color: #90a878;
+}
+#testimonials1-6w .card-footer > small {
+  color: #000000;
+}
 #contacts1-p P {
   color: #ffffff;
 }
@@ -634,7 +641,7 @@ h6,
   color: #ffffff;
 }
 #msg-box8-14 .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #menu-16 .hide-buttons .nav-btn {
   display: none !important;
@@ -738,7 +745,7 @@ h6,
   color: #ffffff;
 }
 #msg-box8-1d .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #menu-1f .hide-buttons .nav-btn {
   display: none !important;
@@ -829,7 +836,7 @@ h6,
   color: #ffffff;
 }
 #msg-box8-1m .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #menu-1o .hide-buttons .nav-btn {
   display: none !important;
@@ -932,7 +939,7 @@ h6,
   color: #ffffff;
 }
 #msg-box8-24 .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #menu-26 .hide-buttons .nav-btn {
   display: none !important;
@@ -1030,7 +1037,7 @@ h6,
   color: #ffffff;
 }
 #msg-box8-2m .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #menu-2o .hide-buttons .nav-btn {
   display: none !important;
@@ -1128,7 +1135,7 @@ h6,
   color: #ffffff;
 }
 #msg-box8-2v .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #menu-2x .hide-buttons .nav-btn {
   display: none !important;
@@ -1204,90 +1211,6 @@ h6,
 #contacts1-33 P {
   color: #ffffff;
 }
-#msg-box8-4z .mbr-section-title,
-#msg-box8-4z p {
-  color: #fff;
-}
-#msg-box8-4z .lead {
-  color: #ffffff;
-}
-#msg-box8-4z .mbr-section-title {
-  font-size: 32px;
-}
-#menu-51 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-51 .navbar-caption {
-  color: #ffffff;
-  font-size: 16px;
-}
-#menu-51 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-51 .link,
-#menu-51 .dropdown-item {
-  color: #ffffff;
-}
-#menu-51 .link {
-  font-size: 0.75rem;
-}
-#menu-51 .dropdown-item,
-#menu-51 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-51 .link:hover,
-#menu-51 .dropdown-item:hover,
-#menu-51 .link:focus,
-#menu-51 .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-51 .link[aria-expanded="true"],
-#menu-51 .dropdown-menu {
-  background: #000000;
-}
-#menu-51 .nav-dropdown-sm .link:focus,
-#menu-51 .nav-dropdown-sm .link:hover,
-#menu-51 .nav-dropdown-sm .dropdown-item:focus,
-#menu-51 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu-51 .navbar,
-#menu-51 .nav-dropdown-sm,
-#menu-51 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-51 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu-51 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-51 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-51 .bg-color.transparent.opened .link:hover,
-#menu-51 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-51 .link[aria-expanded="true"],
-#menu-51 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-51.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-51 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-51 .close-icon::before,
-#menu-51 .close-icon::after {
-  background-color: #ffffff;
-}
-#content6-53 UL {
-  font-size: 16px;
-}
-#contacts1-54 P {
-  color: #ffffff;
-}
 #msg-box8-55 .mbr-section-title,
 #msg-box8-55 p {
   color: #fff;
@@ -1296,7 +1219,7 @@ h6,
   color: #ffffff;
 }
 #msg-box8-55 .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #menu-57 .hide-buttons .nav-btn {
   display: none !important;
@@ -1381,7 +1304,7 @@ h6,
   color: #ffffff;
 }
 #msg-box8-4l .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #menu-4n .hide-buttons .nav-btn {
   display: none !important;
@@ -1497,7 +1420,7 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #form1-5w .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #menu-5s .hide-buttons .nav-btn {
   display: none !important;
@@ -1578,7 +1501,7 @@ h6,
   color: #ffffff;
 }
 #msg-box8-63 .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #menu-65 .hide-buttons .nav-btn {
   display: none !important;
