@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -508,11 +509,21 @@ h6,
 #features2-u .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
-#testimonials1-6w .mbr-section-title {
+#features2-u .mbr-cards-col:nth-child(even) .card-text {
+  font-family: 'Raleway', sans-serif;
+}
+#testimonials1-73 .mbr-section-title {
   font-size: 30px;
   color: #90a878;
 }
-#testimonials1-6w .card-footer > small {
+#testimonials1-73 .card-footer > small {
+  color: #232323;
+}
+#testimonials1-71 .mbr-section-title {
+  font-size: 30px;
+  color: #90a878;
+}
+#testimonials1-71 .card-footer > small {
   color: #000000;
 }
 #contacts1-p P {
